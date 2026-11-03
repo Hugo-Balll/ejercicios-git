@@ -1,7 +1,4 @@
-exe
-o
-jar
-li[D[D/[libraries
-
-
-
+.exe
+.o
+.jar
+libraries/
